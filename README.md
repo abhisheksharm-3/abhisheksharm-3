@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
+<!-- <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1> -->
+<img src ="./github-header-image-transformed.png" align="center" />
 
 # 💫 About Me:
 
