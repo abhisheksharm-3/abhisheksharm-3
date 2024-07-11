@@ -28,17 +28,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharm-3&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisheksharm-3&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abhisheksharm-3&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=abhisheksharm-3&label=Profile%20Crashers&pretty=true)](https://visitcount.itsvg.in)
