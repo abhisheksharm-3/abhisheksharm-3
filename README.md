@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Next.js, React, and MongoDB**
 
-- 📄 Know about my experiences [here](https://abhishekintech.vercel.app/info/abhishek_sharma.pdf)
+- 📄 Know about my experiences [here](https://abhishekintech.vercel.app/abhishek_sharma.pdf)
 
 
 
