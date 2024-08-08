@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **SvelteKit, Smart Contracts, and CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abhishekintech.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abhisheksharma.tech/)
 
 - 💬 Ask me about **Next.js, React, and MongoDB**
 
-- 📄 Know about my experiences [here](https://abhishekintech.vercel.app/abhishek_sharma.pdf)
+- 📄 Know about my experiences [here](https://abhisheksharma.tech/abhishek_sharma.pdf)
 
 
 
