@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [here](https://abhisheksharma.tech/abhishek_sharma.pdf)
 
+- 📊 Check the real-time status of my projects on my [Service Status Dashboard](https://stats.uptimerobot.com/9h8cipdOTd)
+
 
 
 ## 🌐 Socials:
