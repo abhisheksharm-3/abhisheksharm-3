@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Votegrity - a dApp for Voting](https://votegrity.vercel.app/)
 
-- 🌱 I’m currently learning **SvelteKit, Smart Contracts, and CyberSecurity**
+- 🌱 I’m currently learning **Jetpack Compose, Smart Contracts, and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abhisheksharma.tech/)
 
-- 💬 Ask me about **Next.js, React, and MongoDB**
+- 💬 Ask me about **Next.js, React, and SvelteKit**
 
-- 📄 Know about my experiences [here](https://abhisheksharma.tech/abhishek_sharma.pdf)
+- 📄 Reach out to me [here](https://abhisheksharma.tech/contact-me)
 
 - 📊 Check the real-time status of my projects on my [Service Status Dashboard](https://stats.uptimerobot.com/9h8cipdOTd)
 
