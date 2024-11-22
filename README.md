@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1> -->
 <!--<img src ="./github-header-image-transformed.png" align="center" /> -->
-<a href="https://gitroll.io/profile/uNcllNgZIyAOKrnUm43AumtTuJ6w1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNcllNgZIyAOKrnUm43AumtTuJ6w1?theme=dark" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uNcllNgZIyAOKrnUm43AumtTuJ6w1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNcllNgZIyAOKrnUm43AumtTuJ6w1?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
 # 💫 About Me:
 
