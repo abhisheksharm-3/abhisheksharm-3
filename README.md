@@ -37,7 +37,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 
 ## 🛸 The Odd Truths
-- Accidentally became the "resume guy" with [getresume](https://your-project-link.com) – now I know way too much about ATS filters.  
+- Accidentally became the "resume guy" with [getresume](https://getresumes.vercel.app) – now I know way too much about ATS filters.  
 - Dockerized a project once just to feel something.  
 - My debugging process: write `console.log()`, stare at the screen, question my life choices.  
 - My diet consists of black coffee and compiler errors.  
