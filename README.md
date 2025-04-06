@@ -51,7 +51,7 @@ I write code the way I try to live —
 **curious, slightly chaotic, and always shipping.**
 
 - **Code is a conversation** with your future self. I try to keep it friendly.
--  **I don’t write comments** – if the code doesn’t explain itself, that’s a code smell.  
+-  **I mostly don’t write comments** – if the code doesn’t explain itself, that’s a code smell.  
 - **Shipping > Perfection.** I'd rather debug in prod than chase a unicorn in staging.  
 - **Simplicity is underrated.** Clever code makes you feel smart, clean code makes you sleep better.  
 - **Design matters.** I’m obsessed with clean, minimal UI/UX — if I squint at your UI, it better look like zen mode.  
