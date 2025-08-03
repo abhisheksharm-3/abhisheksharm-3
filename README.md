@@ -63,7 +63,7 @@ I write code the way I try to live —
 
 ## 📬 Let’s Connect
 - **LinkedIn:** [Abhishek Sharma](https://www.linkedin.com/in/abhisheksan/)  
-- **Website:** [abhisheksharma.tech](https://abhisheksharma.tech/)  
+- **Website:** [abhisheksan.com](https://abhisheksan.com/)  
 - **Project Uptime (so I can flex stability):** [Service Status Dashboard](https://stats.uptimerobot.com/9h8cipdOTd)  
 
 ---
