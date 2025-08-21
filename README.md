@@ -28,7 +28,7 @@ I write code the way I try to live —
 ---
 
 ## 🧩 Projects That Stuck
-- 🗣️ **[Chat With Anything](https://chat-with-anything.vercel.app/)** – Taught an AI to read. Now it chats with PDFs, images, and basically anything you throw at it. Orchestrated a whole mess of services (LangChain, Pinecone, Gemini) to make it happen without setting my laptop on fire.
+- 🗣️ **[Inquora](https://inquora.vercel.app/)** – Taught an AI to read. Now it chats with PDFs, images, and basically anything you throw at it. Orchestrated a whole mess of services (LangChain, Pinecone, Gemini) to make it happen without setting my laptop on fire.
 - 🔗 **[QuickGist](https://quickgist.vercel.app/)** – Built a code-sharing tool in Go and React because pasting code into Slack was making me sad. It’s fast, reliable, and my friends actually use it.
 - 🔐 **[Credify](https://github.com/abhisheksharm-3/credify)** – Built a media attribution system using metadata and watermarking. Think of it like a digital receipt for your content.  
 
