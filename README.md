@@ -1,6 +1,4 @@
-<a href="https://gitroll.io/profile/uNcllNgZIyAOKrnUm43AumtTuJ6w1" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uNcllNgZIyAOKrnUm43AumtTuJ6w1?theme=tokyoNight" alt="GitRoll Profile Badge"/>
-</a>
+<a href="https://gitroll.io/profile/uNcllNgZIyAOKrnUm43AumtTuJ6w1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNcllNgZIyAOKrnUm43AumtTuJ6w1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 # 👾 Abhishek Sharma 
 > Building software like IKEA furniture – confusing docs, existential crises, but somehow, it works.
