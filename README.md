@@ -2,7 +2,7 @@
 
 # abhishek sharma
 
-i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https://www.wednesday.is/)** in Pune. i own client problems from end to end: the analytics, the billing, who gets access to what, and the release that ships it all on a friday. i'm full-stack because the problems are. the job started with Spring Boot, then grew into React and Postgres, Python for agents, and Terraform when a client needed AWS from nothing.
+i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https://www.wednesday.is/)** in Pune. i own client problems from end to end: the analytics, the billing, who gets access to what, and the releases that ship it. i'm full-stack because the problems are. the job started with Spring Boot, then grew into React and Postgres, Python for agents, and Terraform when a client needed AWS from nothing.
 
 ## what i run right now
 
@@ -15,7 +15,7 @@ i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https:
 
 **a grading platform for a US EdTech client**, integrated with Canvas and Moodle. Java 21 on Spring Boot with 105 endpoints, on ECS Fargate and SQS. i provisioned it alone in Terraform: 121 resources across 3 environments. self-hosted Canvas has no live event stream, so i built polling over SQS that stands in for one. i load tested 100 simultaneous graders: p95 1.82s, zero 5xx.
 
-**an autonomous content engine**: 26 agents on LangGraph and FastAPI. it picks topics from live search console data, writes, runs each article through anti-AI writing checks, pauses on Postgres checkpoints for human review, and publishes as a GitHub PR, for about $1 an article. the validator rejected my first draft. humbling.
+**an autonomous content engine**: 26 agents on LangGraph and FastAPI. it picks topics from live search console data, writes, runs each article through anti-AI writing checks, pauses on Postgres checkpoints for human review, and publishes as a GitHub PR, for about $1 an article.
 
 ## what i build on my own
 
@@ -29,11 +29,11 @@ i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https:
 
 **[Credify](https://verifiedbycredify.vercel.app/)** won the Network18 track at Google's Gen AI Exchange Hackathon. it detects media tampering and tracks provenance, with Neo4j holding the graph. i led a team of three and wrote 240 of the 361 commits. still live.
 
-**[Inquora](https://inquora.vercel.app/)** lets you chat with any file: PDFs, images, YouTube videos. i wired LangChain, Pinecone, and Gemini together without setting anything on fire.
+**[Inquora](https://inquora.vercel.app/)** lets you chat with any file: PDFs, images, YouTube videos. built on LangChain, Pinecone, and Gemini.
 
-**[QuickGist](https://quickgist.vercel.app/)** is code sharing in Go and React, because pasting into Slack was making me sad. my friends actually use it. that's the only metric i care about.
+**[QuickGist](https://quickgist.vercel.app/)** is code sharing in Go and React.
 
-also public and occasionally useful: [tensa](https://github.com/abhisheksharm-3/tensa) (FastAPI + ARQ media toolkit with SSE progress), [gpt-unloader](https://github.com/abhisheksharm-3/gpt-unloader) (virtualizes the DOM so long ChatGPT threads stop dying), [resummarize](https://github.com/abhisheksharm-3/resummarize) (pgvector notes), [radar](https://github.com/abhisheksharm-3/radar) (live flight tracking), [lexalyze](https://github.com/abhisheksharm-3/lexalyze) (legal doc analysis on SvelteKit + FastAPI).
+also public: [tensa](https://github.com/abhisheksharm-3/tensa) (FastAPI + ARQ media toolkit with SSE progress), [gpt-unloader](https://github.com/abhisheksharm-3/gpt-unloader) (virtualizes the DOM so long ChatGPT threads stop dying), [resummarize](https://github.com/abhisheksharm-3/resummarize) (pgvector notes), [radar](https://github.com/abhisheksharm-3/radar) (live flight tracking), [lexalyze](https://github.com/abhisheksharm-3/lexalyze) (legal doc analysis on SvelteKit + FastAPI).
 
 ## stack
 
@@ -49,14 +49,6 @@ also public and occasionally useful: [tensa](https://github.com/abhisheksharm-3/
 
 **mobile**: Jetpack Compose, React Native
 
-## true things
-
-- found a nightly cleanup job that had never deleted a single thing. it had been reading an error code as "bad API key" since april.
-- built a load-test environment that creates, seeds, runs, and destroys itself with one command. my favourite kind of infrastructure: the kind that leaves.
-- accidentally became the "resume guy" with [GetResume](https://getresumes.vercel.app). now i know more about ATS filters than any developer should.
-- debugging process: write `console.log()`, stare at the screen, question my life choices.
-- diet: black coffee and compiler errors.
-
 ---
 
 <p align="center">
@@ -66,6 +58,3 @@ also public and occasionally useful: [tensa](https://github.com/abhisheksharm-3/
   <a href="https://x.com/iabhisheksan">x</a>
 </p>
 
-<p align="center">
-  <em>writing confusing code so AI stays confused. if it can't understand, i win.</em>
-</p>
