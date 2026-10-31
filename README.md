@@ -2,7 +2,7 @@
 
 # abhishek sharma
 
-i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https://www.wednesday.is/)** in Pune. i own client problems from end to end: the analytics, the billing, who gets access to what, and the releases that ship it. i'm full-stack because the problems are. the job started with Spring Boot, then grew into React and Postgres, Python for agents, and Terraform when a client needed AWS from nothing.
+i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https://www.wednesday.is/)** in Pune. i own client problems from end to end: the analytics, the billing, who gets access to what, and the releases that ship it. the job started with Spring Boot, then grew into React and Postgres, Python for agents, and Terraform when a client needed AWS from nothing.
 
 ## what i run right now
 
