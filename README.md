@@ -21,6 +21,8 @@ i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https:
 
 **[Polaris](https://github.com/abhisheksharm-3/polaris)** is the one that changed how i work. it's an SDLC platform for Claude Code: 27 flows, 29 agents, a quality gate that blocks its own author, and memory that keeps refutations, not only conclusions. a phase counts as done only when its artifact is on disk. i built it because four jobs in the same hours is an architecture problem, not a time-management one.
 
+**[ProjectSleeve](https://projectsleeve.vercel.app)** keeps free-tier backends awake. Supabase pauses after a week of quiet and Render sleeps after fifteen minutes, and each platform counts activity differently, so it checks six of them the way they count: a `keepalive()` function inside Postgres, a heartbeat row, a real Atlas ping, a timed visit. pg_cron runs the pinger every minute through Deno Edge Functions, an opt-in restorer brings back a project that paused anyway, and public status pages show 90 days of uptime. built alone in three weeks.
+
 **[Flockr](https://github.com/abhisheksharm-3/flockr)**: household chores, shopping, and shared expenses in Kotlin and Jetpack Compose on Supabase, 22 releases to v2.0.0. before v2 i found 22 database functions with no membership check and locked every one down.
 
 **hands-free voice for Off Grid**, Wednesday's offline AI app: a one-week prototype with six swappable on-device TTS engines, sentence-by-sentence synthesis, and barge-in on hardware echo cancellation. the voice mode that shipped drew on it.
