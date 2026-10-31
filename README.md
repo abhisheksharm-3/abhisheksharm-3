@@ -15,7 +15,7 @@ i'm an **associate forward deployed engineer** at **[Wednesday Solutions](https:
 
 **a grading platform for a US EdTech client**, integrated with Canvas and Moodle. Java 21 on Spring Boot with 105 endpoints, on ECS Fargate and SQS. i provisioned it alone in Terraform: 121 resources across 3 environments. self-hosted Canvas has no live event stream, so i built polling over SQS that stands in for one. i load tested 100 simultaneous graders: p95 1.82s, zero 5xx.
 
-**an autonomous content engine**: 26 agents on LangGraph and FastAPI. it picks topics from live search console data, writes, runs each article through anti-AI writing checks, pauses on Postgres checkpoints for human review, and publishes as a GitHub PR, for about $1 an article.
+**an autonomous content engine**: 26 agents on LangGraph and FastAPI. it picks topics from live search console data, writes, runs each article through anti-AI writing checks, pauses on Postgres checkpoints for human review, and publishes as a GitHub PR.
 
 ## what i build on my own
 
